@@ -6,6 +6,16 @@
 
 A Pomodoro Timer based GUI Application.
 
+Work Time = 25 minutes
+
+Short Break = 5 minutes
+
+Long Break = 20 minutes
+
+1 Cycle = Work_Time \* 4 + Short_Break \* 3 + Long_Break \* 1
+
+A Checkmark appears after one cycle is done.
+
 ## Requirements
 
 [Python](https://www.python.org/)
