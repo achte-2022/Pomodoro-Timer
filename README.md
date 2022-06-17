@@ -2,6 +2,8 @@
 
 ### [twitter](https://twitter.com/achte_te)
 
+## Description
+
 A Pomodoro Timer based GUI Application.
 
 ## Requirements
@@ -30,18 +32,18 @@ $ python3 main.py
 
 ## Application Screen
 
-### Reset Screen
+## Reset Screen
 
 ![](images/reset.png)
 
-### Work Screen
+## Work Screen
 
 ![](images/work.png)
 
-### Short Break
+## Short Break
 
 ![](images/short_break.png)
 
-### Long Break
+## Long Break
 
 ![](images/long_break.png)
