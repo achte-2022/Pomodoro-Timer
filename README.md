@@ -4,7 +4,7 @@
 
 A Pomodoro Timer based GUI Application.
 
-### Requirements:
+## Requirements
 
 [Python](https://www.python.org/)
 
@@ -15,17 +15,17 @@ Python 3.9.12
 
 [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
-### Install
+## Install
 
 ```sh
-$git clone git@github.com:achte-2022/Pomodoro-Timer.git
+$ git clone git@github.com:achte-2022/Pomodoro-Timer.git
 ```
 
-### Run
+## Run
 
 ```sh
-$cd Pomodoro-Timer
-$python3 main.py
+$ cd Pomodoro-Timer
+$ python3 main.py
 ```
 
 ## Application Screen
